@@ -1,0 +1,6 @@
+# Versi diverifikasi dari PyPI, 2026-10-08
+# Belum diuji (belum di-install ke venv)
+
+python-telegram-bot==22.8
+httpx==0.28.1
+python-dotenv==1.2.4

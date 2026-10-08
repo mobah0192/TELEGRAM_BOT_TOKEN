@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Secret
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database SQLite (muncul di Phase 4)
+*.db
+*.sqlite3
